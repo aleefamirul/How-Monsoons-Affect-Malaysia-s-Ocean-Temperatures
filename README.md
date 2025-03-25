@@ -1,5 +1,3 @@
-Here’s a polished README.md for your project on How Monsoon Affects Temperature in Malaysia. This README will help explain the project’s objective, methodology, and findings clearly for academic and professional audiences.
-
 ⸻
 
 
@@ -93,18 +91,6 @@ By leveraging **climate datasets** and **statistical analysis**, this project ai
 ---
 
 ## 📜 License  
-This project is licensed under the [MIT License](LICENSE).  
 Dataset sources: **CMEMS, WOD, Malaysian Meteorological Department** (for academic research purposes).  
 
-
-
 ⸻
-
-🔹 Next Steps:
-
-✅ Replace [Your LinkedIn Profile], [Your Portfolio Website], and [Your Email] with your actual details.
-✅ Add relevant visualizations to the assets folder and update the image paths.
-✅ Upload your Jupyter Notebook and processed dataset (processed_data.csv).
-✅ Include a LICENSE file if required.
-
-This README will help showcase your climate data analysis expertise, making your project accessible to researchers, policymakers, and industry professionals. Let me know if you need further refinements!
