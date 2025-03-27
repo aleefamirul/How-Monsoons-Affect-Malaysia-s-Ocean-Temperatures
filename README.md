@@ -1,7 +1,3 @@
-⸻
-
-
-
 # 🌧️ How Monsoon Affects Temperature in Malaysia  
 
 ![Temperature Trends](./assets/temperature-trends.png) <!-- Add a relevant visualization -->
