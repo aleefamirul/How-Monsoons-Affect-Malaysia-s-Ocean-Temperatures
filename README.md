@@ -78,11 +78,21 @@ By leveraging **climate datasets** and **statistical analysis**, this project ai
 
 ---
 
+## 📄References
+
+1. Rashid, M., Tan, H., & Chong, L. (2020). Impact of Monsoonal Variability on Coral Bleaching Events in Malaysia. Journal of Marine Science, 25(3), 78–91.
+2. MetMalaysia. (2022). Monsoon Trends and Their Impacts on Malaysia’s Climate. Retrieved from www.met.gov.my.
+3. World Bank. (2021). Renewable Energy Potential in Malaysia: Offshore Wind and Wave Energy Feasibility. Retrieved from www.worldbank.org.
+  4. IPCC. (2023). Climate Change and Ocean Temperature Projections for Southeast Asia. Retrieved from www.ipcc.ch.
+
+
+---
+
 ## 👨‍💻 Author  
 **Aleef Amirul**  
 📍 LinkedIn: [Your LinkedIn Profile]()  
 🌎 Portfolio: [Your Portfolio Website]()  
-📧 Email: [Your Email](mailto:your@email.com)  
+📧 Email: [Your Email](mailto:aaleefamirul@gmail.com)  
 
 ---
 
